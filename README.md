@@ -1,14 +1,8 @@
 # Hey, what's up? Welcome to my GitHub profile.
 
 <table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordev3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev3&layout=compact&langs_count=6&theme=tokyonight"/>
-    </td>
-  </tr>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordev3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev3&layout=compact&langs_count=6&theme=tokyonight"/>
 </table>
 
 <!-- ÍCONES = -->
@@ -21,7 +15,7 @@
 
 <!-- = SOCIAIS -->
 <div align="center"> 
-  <a href="https://www.instagram.com/_leehxd/" target="_blank">
+  <a href="https://www.instagram.com/_victor.pxszs/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:bielst1390@gmail.com">
