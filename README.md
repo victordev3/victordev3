@@ -1,8 +1,8 @@
 # Hey, what's up? Welcome to my GitHub profile.
 
 <table>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordev3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev3&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordev3&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordev3&layout=compact&langs_count=6&theme=holi"/>
 </table>
 
 <!-- ÍCONES = -->
